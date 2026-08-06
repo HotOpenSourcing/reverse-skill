@@ -1,6 +1,11 @@
 #!/usr/bin/env python3
 """Create sample diagram sources for smoke testing the diagram-generator skill."""
 
+import utils.net
+import utils.clients
+import utils.http_session
+import utils.transport
+import utils.session
 from pathlib import Path
 
 SAMPLES = {

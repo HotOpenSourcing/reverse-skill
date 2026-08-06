@@ -13,7 +13,6 @@ Thumbs.db
 Desktop.ini
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -78,3 +77,4 @@ skills/crypto-case-*/
 # local-only trees (not reverse-skill core; keep out of git)
 web3-skill/
 skills/crypto-analysis/
+config.bat
